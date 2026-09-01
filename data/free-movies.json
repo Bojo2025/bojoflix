@@ -1,0 +1,325 @@
+{
+  "movies": [
+    {
+      "id": "night-of-the-living-dead",
+      "title": "Night of the Living Dead",
+      "year": 1968,
+      "poster": "https://archive.org/services/img/night_of_the_living_dead",
+      "description": "A group of people hide from bloodthirsty zombies in a farmhouse. George A. Romero's landmark horror film that defined the modern zombie genre.",
+      "ratings": {
+        "imdb": { "score": 7.8, "scale": 10, "voteCount": 140000, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" },
+        "tmdb": { "score": 7.6, "scale": 10, "voteCount": 2100, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" }
+      },
+      "bojoFlixScore": 7.7,
+      "tmdbId": 10331,
+      "imdbId": "tt0063350",
+      "freeSources": [
+        {
+          "source": "internet_archive",
+          "sourceId": "night_of_the_living_dead",
+          "sourceUrl": "https://archive.org/details/night_of_the_living_dead",
+          "embedUrl": "https://archive.org/embed/night_of_the_living_dead",
+          "rightsStatus": "Public Domain",
+          "license": "Public Domain",
+          "isEmbeddable": true,
+          "availability": "available",
+          "lastChecked": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "lastUpdated": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "the-general",
+      "title": "The General",
+      "year": 1926,
+      "poster": "https://archive.org/services/img/the_general",
+      "description": "Buster Keaton stars as a train engineer who must rescue his locomotive and his sweetheart during the American Civil War. A silent comedy masterpiece.",
+      "ratings": {
+        "imdb": { "score": 8.1, "scale": 10, "voteCount": 95000, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" },
+        "tmdb": { "score": 8.0, "scale": 10, "voteCount": 890, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" }
+      },
+      "bojoFlixScore": 8.05,
+      "tmdbId": 961,
+      "imdbId": "tt0017925",
+      "freeSources": [
+        {
+          "source": "internet_archive",
+          "sourceId": "the_general",
+          "sourceUrl": "https://archive.org/details/the_general",
+          "embedUrl": "https://archive.org/embed/the_general",
+          "rightsStatus": "Public Domain",
+          "license": "Public Domain",
+          "isEmbeddable": true,
+          "availability": "available",
+          "lastChecked": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "lastUpdated": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "nosferatu",
+      "title": "Nosferatu",
+      "year": 1922,
+      "poster": "https://archive.org/services/img/nosferatu_1922",
+      "description": "F.W. Murnau's unauthorized adaptation of Dracula. Count Orlok brings plague and terror to a small German town in this expressionist horror classic.",
+      "ratings": {
+        "imdb": { "score": 7.9, "scale": 10, "voteCount": 120000, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" },
+        "tmdb": { "score": 7.7, "scale": 10, "voteCount": 1500, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" }
+      },
+      "bojoFlixScore": 7.8,
+      "tmdbId": 653,
+      "imdbId": "tt0013442",
+      "freeSources": [
+        {
+          "source": "internet_archive",
+          "sourceId": "nosferatu_1922",
+          "sourceUrl": "https://archive.org/details/nosferatu_1922",
+          "embedUrl": "https://archive.org/embed/nosferatu_1922",
+          "rightsStatus": "Public Domain",
+          "license": "Public Domain",
+          "isEmbeddable": true,
+          "availability": "available",
+          "lastChecked": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "lastUpdated": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "metropolis",
+      "title": "Metropolis",
+      "year": 1927,
+      "poster": "https://archive.org/services/img/Metropolis1927",
+      "description": "In a futuristic city, a wealthy industrialist's son falls in love with a working-class prophet who predicts a worker uprising. Fritz Lang's sci-fi epic.",
+      "ratings": {
+        "imdb": { "score": 8.3, "scale": 10, "voteCount": 180000, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" },
+        "tmdb": { "score": 8.1, "scale": 10, "voteCount": 2200, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" }
+      },
+      "bojoFlixScore": 8.2,
+      "tmdbId": 19,
+      "imdbId": "tt0017136",
+      "freeSources": [
+        {
+          "source": "internet_archive",
+          "sourceId": "Metropolis1927",
+          "sourceUrl": "https://archive.org/details/Metropolis1927",
+          "embedUrl": "https://archive.org/embed/Metropolis1927",
+          "rightsStatus": "Public Domain",
+          "license": "Public Domain",
+          "isEmbeddable": true,
+          "availability": "available",
+          "lastChecked": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "lastUpdated": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "carnival-of-souls",
+      "title": "Carnival of Souls",
+      "year": 1962,
+      "poster": "https://archive.org/services/img/CarnivalofSouls",
+      "description": "After a car accident, a woman is drawn to a mysterious abandoned pavilion where ghostly figures haunt her. A cult horror classic.",
+      "ratings": {
+        "imdb": { "score": 7.5, "scale": 10, "voteCount": 32000, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" },
+        "tmdb": { "score": 7.2, "scale": 10, "voteCount": 450, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" }
+      },
+      "bojoFlixScore": 7.35,
+      "tmdbId": 16093,
+      "imdbId": "tt0055830",
+      "freeSources": [
+        {
+          "source": "internet_archive",
+          "sourceId": "CarnivalofSouls",
+          "sourceUrl": "https://archive.org/details/CarnivalofSouls",
+          "embedUrl": "https://archive.org/embed/CarnivalofSouls",
+          "rightsStatus": "Public Domain",
+          "license": "Public Domain",
+          "isEmbeddable": true,
+          "availability": "available",
+          "lastChecked": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "lastUpdated": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "plan-9-from-outer-space",
+      "title": "Plan 9 from Outer Space",
+      "year": 1959,
+      "poster": "https://archive.org/services/img/Plan_9_from_Outer_Space",
+      "description": "Aliens resurrect the dead as zombies to stop humanity from creating a doomsday weapon. Ed Wood's legendary cult sci-fi film.",
+      "ratings": {
+        "imdb": { "score": 3.9, "scale": 10, "voteCount": 42000, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" },
+        "tmdb": { "score": 4.2, "scale": 10, "voteCount": 380, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" }
+      },
+      "bojoFlixScore": 4.05,
+      "tmdbId": 24873,
+      "imdbId": "tt0052077",
+      "freeSources": [
+        {
+          "source": "internet_archive",
+          "sourceId": "Plan_9_from_Outer_Space",
+          "sourceUrl": "https://archive.org/details/Plan_9_from_Outer_Space",
+          "embedUrl": "https://archive.org/embed/Plan_9_from_Outer_Space",
+          "rightsStatus": "Public Domain",
+          "license": "Public Domain",
+          "isEmbeddable": true,
+          "availability": "available",
+          "lastChecked": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "lastUpdated": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "sherlock-jr",
+      "title": "Sherlock Jr.",
+      "year": 1924,
+      "poster": "https://archive.org/services/img/sherlock_jr",
+      "description": "A film projectionist dreams of being a detective and enters the movie he's projecting. Buster Keaton's inventive silent comedy.",
+      "ratings": {
+        "imdb": { "score": 8.2, "scale": 10, "voteCount": 48000, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" },
+        "tmdb": { "score": 8.0, "scale": 10, "voteCount": 620, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" }
+      },
+      "bojoFlixScore": 8.1,
+      "tmdbId": 872,
+      "imdbId": "tt0015324",
+      "freeSources": [
+        {
+          "source": "internet_archive",
+          "sourceId": "sherlock_jr",
+          "sourceUrl": "https://archive.org/details/sherlock_jr",
+          "embedUrl": "https://archive.org/embed/sherlock_jr",
+          "rightsStatus": "Public Domain",
+          "license": "Public Domain",
+          "isEmbeddable": true,
+          "availability": "available",
+          "lastChecked": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "lastUpdated": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "charade",
+      "title": "Charade",
+      "year": 1963,
+      "poster": "https://archive.org/services/img/charade",
+      "description": "A widow is pursued by several men who want a fortune stolen by her late husband. Cary Grant and Audrey Hepburn star in this witty thriller.",
+      "ratings": {
+        "imdb": { "score": 7.8, "scale": 10, "voteCount": 78000, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" },
+        "tmdb": { "score": 7.7, "scale": 10, "voteCount": 980, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" }
+      },
+      "bojoFlixScore": 7.75,
+      "tmdbId": 881,
+      "imdbId": "tt0056923",
+      "freeSources": [
+        {
+          "source": "internet_archive",
+          "sourceId": "charade",
+          "sourceUrl": "https://archive.org/details/charade",
+          "embedUrl": "https://archive.org/embed/charade",
+          "rightsStatus": "Public Domain",
+          "license": "Public Domain",
+          "isEmbeddable": true,
+          "availability": "available",
+          "lastChecked": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "lastUpdated": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "his-girl-friday",
+      "title": "His Girl Friday",
+      "year": 1940,
+      "poster": "https://archive.org/services/img/His_Girl_Friday",
+      "description": "A newspaper editor tries to win back his ex-wife and star reporter. One of the fastest-talking screwball comedies ever made.",
+      "ratings": {
+        "imdb": { "score": 7.8, "scale": 10, "voteCount": 62000, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" },
+        "tmdb": { "score": 7.6, "scale": 10, "voteCount": 540, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" }
+      },
+      "bojoFlixScore": 7.7,
+      "tmdbId": 3085,
+      "imdbId": "tt0032599",
+      "freeSources": [
+        {
+          "source": "internet_archive",
+          "sourceId": "His_Girl_Friday",
+          "sourceUrl": "https://archive.org/details/His_Girl_Friday",
+          "embedUrl": "https://archive.org/embed/His_Girl_Friday",
+          "rightsStatus": "Public Domain",
+          "license": "Public Domain",
+          "isEmbeddable": true,
+          "availability": "available",
+          "lastChecked": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "lastUpdated": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "detour",
+      "title": "Detour",
+      "year": 1945,
+      "poster": "https://archive.org/services/img/Detour",
+      "description": "A hitchhiker gets caught in a web of fate and murder on a cross-country trip. A landmark of film noir made on a shoestring budget.",
+      "ratings": {
+        "imdb": { "score": 7.3, "scale": 10, "voteCount": 18000, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" },
+        "tmdb": { "score": 7.1, "scale": 10, "voteCount": 210, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" }
+      },
+      "bojoFlixScore": 7.2,
+      "tmdbId": 31586,
+      "imdbId": "tt0037639",
+      "freeSources": [
+        {
+          "source": "internet_archive",
+          "sourceId": "Detour",
+          "sourceUrl": "https://archive.org/details/Detour",
+          "embedUrl": "https://archive.org/embed/Detour",
+          "rightsStatus": "Public Domain",
+          "license": "Public Domain",
+          "isEmbeddable": true,
+          "availability": "available",
+          "lastChecked": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "lastUpdated": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "house-on-haunted-hill",
+      "title": "House on Haunted Hill",
+      "year": 1959,
+      "poster": "https://archive.org/services/img/House_on_Haunted_Hill",
+      "description": "A millionaire offers guests $10,000 to spend the night in a haunted house. Vincent Price stars in William Castle's horror classic.",
+      "ratings": {
+        "imdb": { "score": 6.8, "scale": 10, "voteCount": 35000, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" },
+        "tmdb": { "score": 6.7, "scale": 10, "voteCount": 320, "label": "Audience", "lastUpdated": "2026-09-01T00:00:00Z" }
+      },
+      "bojoFlixScore": 6.75,
+      "tmdbId": 24150,
+      "imdbId": "tt0051744",
+      "freeSources": [
+        {
+          "source": "internet_archive",
+          "sourceId": "House_on_Haunted_Hill",
+          "sourceUrl": "https://archive.org/details/House_on_Haunted_Hill",
+          "embedUrl": "https://archive.org/embed/House_on_Haunted_Hill",
+          "rightsStatus": "Public Domain",
+          "license": "Public Domain",
+          "isEmbeddable": true,
+          "availability": "available",
+          "lastChecked": "2026-09-01T00:00:00Z"
+        },
+        {
+          "source": "youtube",
+          "sourceId": "eQ90H8Hl4VI",
+          "sourceUrl": "https://www.youtube.com/watch?v=eQ90H8Hl4VI",
+          "embedUrl": "https://www.youtube.com/embed/eQ90H8Hl4VI?rel=0&modestbranding=1",
+          "rightsStatus": "Public Domain",
+          "license": "Public Domain",
+          "isEmbeddable": true,
+          "availability": "available",
+          "lastChecked": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "lastUpdated": "2026-09-01T00:00:00Z"
+    }
+  ],
+  "lastRefresh": "2026-09-01T00:00:00Z",
+  "version": 1
+}
